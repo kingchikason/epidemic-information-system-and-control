@@ -1,0 +1,9 @@
+{
+  "name": "weiscproject",
+  "displayName": "weiscproject",
+  "splash": {
+    "image": "./assets/splash.png",
+    "backgroundColor": "#FEF9B0"
+  }
+
+}

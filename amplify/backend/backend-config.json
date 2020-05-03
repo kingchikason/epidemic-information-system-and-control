@@ -1,0 +1,15 @@
+{
+	"auth": {
+		"worldepidemicinfo51564c0a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {
+		"s3485d05c8": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

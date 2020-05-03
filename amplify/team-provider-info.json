@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-worldepidemicinfo-prod-224453-authRole",
+            "UnauthRoleArn": "arn:aws:iam::295894757946:role/amplify-worldepidemicinfo-prod-224453-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::295894757946:role/amplify-worldepidemicinfo-prod-224453-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-worldepidemicinfo-prod-224453-deployment",
+            "UnauthRoleName": "amplify-worldepidemicinfo-prod-224453-unauthRole",
+            "StackName": "amplify-worldepidemicinfo-prod-224453",
+            "StackId": "arn:aws:cloudformation:us-east-2:295894757946:stack/amplify-worldepidemicinfo-prod-224453/2763fd30-6ee2-11ea-96b9-0a76b6c12f42",
+            "AmplifyAppId": "d2amimichx44og"
+        },
+        "categories": {
+            "auth": {
+                "worldepidemicinfo51564c0a": {}
+            }
+        }
+    }
+}
